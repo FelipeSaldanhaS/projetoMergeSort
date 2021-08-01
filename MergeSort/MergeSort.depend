@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618620362 source:e:\federal\3-sem\edd3\exs\mergesort\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+
